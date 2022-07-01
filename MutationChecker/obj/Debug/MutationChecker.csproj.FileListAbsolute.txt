@@ -1,1 +1,11 @@
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\MutationChecker.exe.config
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Database\dbMutationChecker.mdf
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Database\dbMutationChecker_log.ldf
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\MutationChecker.exe
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\MutationChecker.pdb
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.csprojResolveAssemblyReference.cache
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.Form1.resources
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.Properties.Resources.resources
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.csproj.GenerateResource.Cache
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.exe
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.pdb
