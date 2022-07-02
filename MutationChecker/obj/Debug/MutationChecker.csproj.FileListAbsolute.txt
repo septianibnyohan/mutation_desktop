@@ -9,3 +9,14 @@ D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\Muta
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.csproj.GenerateResource.Cache
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.exe
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.pdb
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\MutationChecker.exe.config
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.exe
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.pdb
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\Database\dbMutationChecker.mdf
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\Database\dbMutationChecker_log.ldf
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\MutationChecker.exe
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\MutationChecker.pdb
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.csprojResolveAssemblyReference.cache
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.Form1.resources
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.Properties.Resources.resources
+C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.csproj.GenerateResource.Cache
