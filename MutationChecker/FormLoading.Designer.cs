@@ -1,6 +1,6 @@
 ﻿namespace MutationChecker
 {
-    partial class Form1
+    partial class FrmLoading
     {
         /// <summary>
         /// Required designer variable.
@@ -125,7 +125,7 @@
             this.bwrLoading.DoWork += new System.ComponentModel.DoWorkEventHandler(this.bwrLoading_DoWork);
             this.bwrLoading.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.bwrLoading_ProgressChanged);
             // 
-            // Form1
+            // FrmLoading
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -140,10 +140,12 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.Name = "FrmLoading";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Activated += new System.EventHandler(this.FrmLoading_Activated);
+            this.Load += new System.EventHandler(this.FrmLoading_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

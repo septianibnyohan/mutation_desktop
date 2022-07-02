@@ -3,12 +3,11 @@ D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Data
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Database\dbMutationChecker_log.ldf
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\MutationChecker.exe
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\MutationChecker.pdb
-D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.csprojResolveAssemblyReference.cache
-D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.Form1.resources
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.Properties.Resources.resources
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.csproj.GenerateResource.Cache
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.exe
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.pdb
+<<<<<<< HEAD
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\bin\Debug\MutationChecker.exe.config
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.exe
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.pdb
@@ -20,3 +19,17 @@ C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecke
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.Form1.resources
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.Properties.Resources.resources
 C:\Users\serag\Desktop\mutation_desktop\MutationChecker\obj\Debug\MutationChecker.csproj.GenerateResource.Cache
+=======
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.FrmLoading.resources
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\Newtonsoft.Json.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.FormVerify.resources
+>>>>>>> a2091dd714cc990eb982c0de8c8d25ab260c5048
