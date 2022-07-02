@@ -9,3 +9,11 @@ D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\Muta
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.exe
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.pdb
 D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\obj\Debug\MutationChecker.FrmLoading.resources
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectDev\MutationChecker\src\MutationChecker\MutationChecker\bin\Debug\System.Data.SQLite.xml

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MutationChecker.Model.Context;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,13 +35,16 @@ namespace MutationChecker
 
         private void bwrLoading_DoWork(object sender, DoWorkEventArgs e)
         {
-            for (int i = 1; i <= 100; i++)
-            {
-                // Wait 50 milliseconds.  
-                Thread.Sleep(50);
-                // Report progress.  
-                bwrLoading.ReportProgress(i);
-            }
+            //for (int i = 1; i <= 100; i++)
+            //{
+            //    // Wait 50 milliseconds.  
+            //    Thread.Sleep(50);
+            //    // Report progress.  
+            //    bwrLoading.ReportProgress(i);
+            //}
+
+            // Get Token
+            var token = GeneralSetting.GetToken();
 
             // show form verification
 
