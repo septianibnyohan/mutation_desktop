@@ -9,11 +9,12 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace MutationChecker
 {
-    public partial class Form1 : Form
+    public partial class FrmLoading : Form
     {
-        public Form1()
+        public FrmLoading()
         {
             InitializeComponent();
 
@@ -40,6 +41,9 @@ namespace MutationChecker
                 // Report progress.  
                 bwrLoading.ReportProgress(i);
             }
+
+            // show form verification
+
         }
 
         private void bwrLoading_ProgressChanged(object sender, ProgressChangedEventArgs e)
